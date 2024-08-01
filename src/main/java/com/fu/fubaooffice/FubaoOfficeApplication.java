@@ -1,4 +1,4 @@
-package com.example.fubaooffice;
+package com.fu.fubaooffice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
