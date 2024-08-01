@@ -1,4 +1,4 @@
-package com.example.fubaooffice;
+package com.fu.fubaooffice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
